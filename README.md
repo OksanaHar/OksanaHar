@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий тестировщик.
+Я тестировщик. Прошла курсы "Функциональное тестирование ПО" и "Введение в SQL". 
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:roxhar@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:oksik-kha@ya.ru)
 
